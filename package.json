@@ -12,6 +12,7 @@
     "@expo-google-fonts/inter": "^0.2.3",
     "@expo/vector-icons": "^14.0.0",
     "@lucide/lab": "^0.1.2",
+    "@react-native-async-storage/async-storage": "2.1.2",
     "@react-navigation/bottom-tabs": "^7.0.0",
     "@supabase/supabase-js": "^2.39.3",
     "dotenv": "^16.5.0",
@@ -45,8 +46,7 @@
     "react-native-url-polyfill": "^2.0.0",
     "react-native-web": "^0.20.0",
     "react-native-webview": "13.13.5",
-    "undefined": "\\",
-    "@react-native-async-storage/async-storage": "2.1.2"
+    "undefined": "\\"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
